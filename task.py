@@ -1,6 +1,7 @@
 # Example 1: Basic variable assignments and printing
 name = "Alice"
 age = 25
+a= 12
 print("Name:", name)
 print("Age:", age)
 
