@@ -35,3 +35,5 @@ print("\nFruits list:")
 for fruit in fruits:
     print(fruit)
     print("salman 1180")
+    print ("salman")
+
